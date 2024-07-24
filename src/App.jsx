@@ -43,8 +43,9 @@ function App() {
       }
     });
     setTasks(newTasks);
-    setEditValue("");
+    // console.log(editValue);
     setEditId(null); // ==> way1
+    // setEditValue("");
     // setIsEdited(false); // ==> way2
   };
 

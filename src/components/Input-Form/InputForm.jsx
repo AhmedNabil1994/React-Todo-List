@@ -20,6 +20,7 @@ export default function InputForm({
       setName("");
     } else {
       onEditButton(editId);
+      setName("");
     }
   };
   const handleChange = (e) => {
