@@ -1,0 +1,14 @@
+input {
+  padding: 2px 11px;
+  border-radius: 5px;
+  width: 100%;
+}
+button.add {
+  padding: 2px 11px;
+  border-radius: 5px !important;
+  width: 100%;
+  font-weight: 600;
+}
+button.add:focus {
+  box-shadow: none;
+}
