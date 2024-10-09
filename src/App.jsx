@@ -53,7 +53,7 @@ function App() {
     <div className="container">
       <div className="row justify-content-center">
         <div className="col-lg-6 col-md-8 col-sm-10 col-12 app">
-          <h1>Todo-List</h1>
+          <h1>Todo-List Application</h1>
           <InputForm
             onAddTasks={handleTasks}
             edited={isEdited}
